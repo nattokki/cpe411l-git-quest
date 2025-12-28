@@ -6,3 +6,11 @@ LEVEL 5 COMPLETE: working on branch student-nathan
 LEVEL 6 CHEST CODE: FOX-7
 LEVEL 7 COMPLETE: defeated mini boss using git diff
 LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/35
+LEVEL 9 COMPLETE: merge conflict boss
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+$ git pull origin main
+From https://github.com/nattokki/cpe411l-git-quest
+ * branch            main       -> FETCH_HEAD
+Already up to date.
