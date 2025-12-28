@@ -5,3 +5,4 @@ LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: working on branch student-nathan
 LEVEL 6 CHEST CODE: FOX-7
 LEVEL 7 COMPLETE: defeated mini boss using git diff
+LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/35
