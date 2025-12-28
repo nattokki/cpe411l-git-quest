@@ -1,2 +1,3 @@
 LEVEL 1 COMPLETE: I can read instructions
 LEVEL 2 COMPLETE: Checked git status
+LEVEL 3 COMPLETE : Clue found (SUNSET-19)
